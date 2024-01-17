@@ -43,4 +43,5 @@
 
 ## 预览
 
-![image-20240113165254759](https://article.biliimg.com/bfs/new_dyn/35a668e830203e4e5274f9642b3e37ab109123653.png)
+![image-20240117230449417](./assets/README/image-20240117230449417.png)
+
